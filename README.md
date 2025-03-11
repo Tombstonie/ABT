@@ -22,7 +22,7 @@
 
 [![Tombstonie's GitHub Status](https://github-readme-stats.vercel.app/api?username=gsdeluxe&show_icons=true&theme=midnight-purple)](https://github.comeluxe)/Tomb
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsdeluxe&theme=midnight-purple" alt="gsdeluxe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsdeluxe&theme=midnight-purple" alt="Tombstonie" /></p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdeluxe&layout=compact&theme=midnight-purple)](https://github.com/GsDeluxe)
 
