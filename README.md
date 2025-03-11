@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Beast Battlegrounds, Half-Moon CS2 CHEAT**
 
 - 🌱 I’m currently learning **C++, Python**
-- 
+  
 - 📫 How to reach me **Discord: Tombstonie**
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 <p align="center">
   <h3 align="left">Support:</h3>
-  <p><a href="https://ko-fi.com/gsdeluxe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gsdeluxe" /></a></p><br><br
+  <p><a href="https://buymeacoffee.com/tombstonie"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tombstonie" /></a></p><br><br
 </p>
 
 
